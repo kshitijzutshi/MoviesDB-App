@@ -4,4 +4,4 @@
 
 #### :pushpin:Screenshot of the App on Android 
 
-[alttext]()
+![alt text](https://github.com/kshitijzutshi/MoviesDB-App/blob/master/moviesdb.jpg)
